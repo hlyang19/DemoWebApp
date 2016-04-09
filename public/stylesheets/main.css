@@ -1,14 +1,19 @@
 body {
-  background-color: #d0e4fe;
+  background-image: url("http://www.clickinmoms.com/blog/wp-content/uploads/2012/10/dramatic-photography-light-by-Kate-T-Parker.jpg");
+  padding: 40px;
+  color: white;
 }
 
 h1 {
-  color: orange;
   text-align: center;
+  margin: auto;
 }
 
 p {
-  font-family: "Courier New";
-  font-size: 30px;
-  color: blue;
+  font-family: "segoe ui";
+  font-size: 15px;
+}
+
+form {
+	margin: auto;
 }
